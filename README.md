@@ -84,6 +84,16 @@ python scanner.py -t 192.168.1.1 -p 1-100 --threads 200
 -h, --help        Show help message
 ```
 
-## Output Examples
+## Screenshots
+### Scan Help
+![Scan Help](Screenshot\From\2026-01-21\07-17-25.png)
 
-### Console Output
+### Scan in Progress
+![Scan Progress](Screenshot\From\2026-01-21\08-09-54.png)
+
+### Results Output
+![Results](Screenshot\From\2026-01-21\08-10-07.png)
+
+### JSON Export
+![JSON Export](Screenshot\From\2026-01-21\08-11-47.png)
+```
