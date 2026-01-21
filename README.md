@@ -86,14 +86,14 @@ python scanner.py -t 192.168.1.1 -p 1-100 --threads 200
 
 ## Screenshots
 ### Scan Help
-![Scan Help](Screenshot\From\2026-01-21\07-17-25.png)
+![Scan Help](https://github.com/olaaminu69/port-scanner/blob/main/screenshots/Screenshot%20From%202026-01-21%2007-17-25.png)
 
 ### Scan in Progress
-![Scan Progress](Screenshot\From\2026-01-21\08-09-54.png)
+![Scan Progress](https://github.com/olaaminu69/port-scanner/blob/main/screenshots/Screenshot%20From%202026-01-21%2008-09-54.png)
 
 ### Results Output
-![Results](Screenshot\From\2026-01-21\08-10-07.png)
+![Results](https://github.com/olaaminu69/port-scanner/blob/main/screenshots/Screenshot%20From%202026-01-21%2008-10-07.png)
 
 ### JSON Export
-![JSON Export](Screenshot\From\2026-01-21\08-11-47.png)
+![JSON Export](https://github.com/olaaminu69/port-scanner/blob/main/screenshots/Screenshot%20From%202026-01-21%2008-11-47.png)
 ```
