@@ -25,7 +25,7 @@ A professional-grade, multi-threaded TCP port scanner built in Python with servi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/port-scanner.git
+git clone https://github.com/olaaminu69/port-scanner.git
 cd port-scanner
 ```
 
